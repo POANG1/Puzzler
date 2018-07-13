@@ -15,7 +15,7 @@ In here multiple orbs hover in front of the user and these orbs light up in a ra
 
 Visual and audio feedback will guide the user according to whether he was successful or not.  If he fails, the pattern is reset. If he succeeds the user is moved outside the dungeon and a restart button becomes visible, to restart the game.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QzhNBb8aeJ8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Puzzler Video](https://i.imgur.com/561Hvc5.png)](https://www.youtube.com/watch?v=QzhNBb8aeJ8)
 
 <br/><h5>Target Audience (Persona)</h5>
 
