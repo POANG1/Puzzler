@@ -42,17 +42,17 @@ Since the Cardboard VR provides a 3DF experience, Puzzler could be played both s
 
 
 <br/><h5>Dungeon</h5>
-<div style="text-align:center"><img src="./images/dungeon sketch.jpg" width=500/></div>
+<div style="text-align:center"><img src="./images/dungeon sketch.jpg" width=300/></div>
 
 <br/><h5>Orbs</h5>
 
-<div style="text-align:center"><img src="./images/orbs sketch.jpg" width=500/></div>
+<div style="text-align:center"><img src="./images/orbs sketch.jpg" width=300/></div>
 <br/><h5>Extra Details</h5>
 
-<div style="text-align:center"><img src="./images/extra items sketch.jpg" width=500/></div>
+<div style="text-align:center"><img src="./images/extra items sketch.jpg" width=300/></div>
 <br/><h5>UI Menus</h5>
 
-<div style="text-align:center"><img src="./images/UI Panels sketch.jpg" width=500/></div>
+<div style="text-align:center"><img src="./images/UI Panels sketch.jpg" width=300/></div>
 
 <br/><br/><h3>Building and Iterations</h3>
 	
