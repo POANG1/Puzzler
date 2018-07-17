@@ -4,6 +4,7 @@
 
 <h3>Introduction</h3>
 
+
 <br/><h5>Statement of Purpose</h5>
 Puzzler is a Virtual Reality application to help users new to VR, get familiar with immersive content using a familiar Simon Says kind of game.
 
@@ -27,6 +28,14 @@ Visual and audio feedback will guide the user according to whether he was succes
 <br/>**Intro** - Steve is the COO of a tech development company, leading the sales and marketing efforts of the company. He is married with a young child. He enjoys his work but is totally addicted to trying out new things that popup whilst browsing the Internet.  He is a typical tech savvy early adopter, and loves playing games in his spare time. 
 <br/>**Quote** - "I love trying out new things, new services and new concepts"
 <br/>**VR Experience** - First used VR 6 months ago
+
+
+<br/><h5>The process</h5>
+The process to create this project was an elaborate balance between design and testing. Both go hand in hand. What I found most difficult was stopping the design and building process to test with users, since users are sometimes hard to get them in the right atmosphere for testing. This leads to a temptation to move forward with design and building without testing which I quickly learned actually slowed down the process even more. I also found the scripting parts a bit difficult.
+
+I loved this project, but have to admit I did not like the scripting part. The project was more elaborate than any other I ever attempted, and took around 16 hours of work over a number of days.
+
+I tried to add a number of unique elements not requested in the course material, including a restart game button which moves with the user (whilst being out of view), an explanation panel which I created after realizing people where not grasping the goal of the game immediately. Also added some design elements to add to the scary atmosphere, including a chained up mummy model. I believe I could have improved some elements as well but didn't because of time constraints. These include better alignment of building walls and better lighting.
 
 <br/><br/><h3>Design Sketches</h3>
 	
